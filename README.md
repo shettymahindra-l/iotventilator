@@ -4,8 +4,7 @@
 This project is an **Arduino-based automatic ventilator system** designed to simulate controlled breathing cycles. It uses **servo motors, sensor inputs, and an LCD display** to provide real-time monitoring and patient-specific ventilation settings. The system allows safe and adjustable ventilation suitable for educational and prototyping purposes.
 
 ## Demo Video
-🎥 [Watch the Ventilator Demo](https://github.com/shettymahindra-l/iotventilator/blob/4e18462dde88f284a2b94aad6b635931ccbe8f29/Ventilator%20video%20.mp4)
-
+[![Ventilator Demo](https://github.com/shettymahindra-l/iotventilator/blob/1020857a32727e21341f236624d62e3728528cae/Snapshot.jpg)](https://github.com/shettymahindra-l/iotventilator/blob/4e18462dde88f284a2b94aad6b635931ccbe8f29/Ventilator%20video%20.mp4)
 
 
 ## Key Features
