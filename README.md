@@ -15,7 +15,6 @@ This project is an **Arduino-based automatic ventilator system** designed to sim
 ## Hardware Components
 - Arduino Uno
 - Servo Motor
-- MPU6050 sensor (optional)
 - LiquidCrystal I2C display
 - Push buttons for start/stop and age selection
 - LED indicators
